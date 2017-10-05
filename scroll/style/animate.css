@@ -1,4 +1,7 @@
-﻿
+﻿body {
+	overflow:hidden;
+}
+
 .starwars section.logo { 
     text-align: center;
 }
